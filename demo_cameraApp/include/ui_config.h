@@ -151,7 +151,7 @@ extern "C" {
 #endif
 
 #define UI_IMAGE_PATH \
-    "/storage/app/run/com.huawei.smartcamera/smart_camera/resources/base/media/"
+    "/storage/app/run/com.huawei.camera/cameraApp/assets/cameraApp/resources/base/media/"
 #define TTF_PATH "SourceHanSansSC-Regular.otf"
 
 #define PHOTO_PATH "/userdata/photo/"
